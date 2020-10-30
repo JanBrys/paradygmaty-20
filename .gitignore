@@ -127,5 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 /.metadata/
 /.idea/
+=======
+
+.DS_Store
+.gitignore
+>>>>>>> main
